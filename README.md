@@ -57,19 +57,21 @@ Focused on clean architecture, responsive design, and exceptional user experienc
 ---
 
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WesamDeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WesamDeveloper&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=WesamDeveloper&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=WesamDeveloper&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesamDeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesamDeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
+
 
 
 ## 🏆 GitHub Trophies
