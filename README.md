@@ -69,7 +69,7 @@ Focused on clean architecture, responsive design, and exceptional user experienc
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesamDeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
-```
+---
 
 
 ## 🏆 GitHub Trophies
