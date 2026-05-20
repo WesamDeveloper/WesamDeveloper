@@ -1,4 +1,4 @@
-```html
+
 <!--
 🔥 Premium GitHub Profile README
 Designed for Wesam Al-Gunaid
@@ -125,4 +125,4 @@ Focused on clean architecture, responsive design, and exceptional user experienc
 ✨ Thanks for visiting my profile ✨
 
 </p>
-```
+
